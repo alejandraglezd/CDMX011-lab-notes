@@ -1,0 +1,26 @@
+.SignIn {
+    display:flex;
+    background-color: rgba(255, 232, 174, 0.66);
+    /* min-height: 100vh; */
+    flex-direction: column;
+    align-items: center;
+    /* height: 1080px;
+    width: 810px; */
+  }
+ h3 {
+    color: rgba(68, 93, 180, 1);
+    font-family: Hiragino Kaku Gothic ProN;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 230px;
+    line-height: 22px;
+  }
+  .inputEmail {
+
+  }
+  .inputPassword {
+
+  }
+  
