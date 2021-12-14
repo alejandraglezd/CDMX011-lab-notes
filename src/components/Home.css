@@ -1,0 +1,138 @@
+.Home {
+  display:flex;
+  background-color: rgba(255, 232, 174, 0.66);
+  /* min-height: 100vh; */
+  flex-direction: column;
+  align-items: center;
+  /* height: 1080px;
+  width: 810px; */
+}
+.App-header {
+  display: flex;
+  width: 42%;
+  margin-left: 85px;
+  align-self: flex-start;
+  margin-top: 50px;
+  color: rgba(68, 93, 180, 1);
+  font-family: Hiragino Kaku Gothic Std;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 50px;
+  border-bottom: solid rgba(68, 93, 180, 1);
+  border-right: solid rgba(68, 93, 180, 1);
+  height: 150px;
+}
+h3 {
+  color: rgba(68, 93, 180, 1);
+  font-family: Hiragino Kaku Gothic ProN;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 300px;
+  line-height: 22px;
+}
+.homeForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inputEmail {
+  margin-top: 260px;
+  width: 442px;
+  height: 69px;
+  background-color:rgba(255, 232, 174, 1);
+  border-color: rgba(255, 232, 174, 0.116);
+  font-size: 25px;
+  color: rgba(68, 93, 180, 0.71);
+  text-indent: 15px;
+}
+.inputPassword {
+  margin-top: 10px;
+  width: 442px;
+  height: 69px;
+  background-color:rgba(255, 232, 174, 1);
+  border-color: rgba(255, 232, 174, 0.116);
+  font-size: 25px;
+  color: rgba(68, 93, 180, 0.71);
+  text-indent: 15px;
+}
+.buttonLogin {
+  margin-top: 46px;
+  background-color: rgba(255, 232, 174, 0.66);
+  height:69px;
+  width: 542px;
+  border: 2px solid #445DB4;
+  box-sizing: border-box;
+  border-radius: 38px;
+  color:rgba(68, 93, 180, 1);
+  font-size: 26px;
+  cursor:pointer;
+}
+h4 {
+  margin-top: 35px;
+  font-family: Hiragino Kaku Gothic ProN;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+  font-style: oblique;
+  text-align: center;
+  color:rgba(68, 92, 180, 0.767);
+}
+.G {
+  width: 99px;
+  height: 97px;
+  border-radius: 400px;
+  background-color: rgb(204, 34, 34);
+  text-align: center;
+  align-items: center;
+  padding: 16px;
+  font-size: 90px;
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  margin-top: 30px;
+  font-family: Hiragino Kaku Gothic ProN;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+  font-style: oblique;
+  text-align: center;
+  color:rgba(68, 92, 180, 0.767);
+}
+hr {
+  margin-top: 35px;
+  width: 500px;
+  height: 2px;
+  background-color:rgba(68, 92, 180, 0.767);
+}
+.buttonSignIn {
+  margin-top: 21px;
+  background-color: rgba(68, 93, 180, 1);
+  height:69px;
+  width: 442px;
+  border: 2px solid #445DB4;
+  box-sizing: border-box;
+  border-radius: 38px;
+  color:rgba(255, 232, 174, 1);
+  font-size: 26px;
+  cursor:pointer;
+}
+.App-footer {
+  display: flex;
+  width: 100%;
+  align-items: flex-end;
+  margin-top: 110%;
+  justify-content: center;
+  font-family: Hiragino Kaku Gothic Std;
+  color: rgba(68, 93, 180, 1);
+  border-top: solid 1.5px rgba(68, 93, 180, 1);
+}
+/* .App-link {
+  color: #61dafb;
+} */
+
